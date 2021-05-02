@@ -81,6 +81,6 @@ int main()
 #
 ## Author
 ## [Usama Azad](https://github.com/Usama-Azad/)
-<br/>
+<!-- <br/> -->
 
-![Usama Azad](https://avatars1.githubusercontent.com/u/68641880?s=400&u=36a8f07494dc385f817b1767ee2c64717a5a9d2c&v=4)
+<!-- ![Usama Azad](https://avatars1.githubusercontent.com/u/68641880?s=400&u=36a8f07494dc385f817b1767ee2c64717a5a9d2c&v=4) -->
